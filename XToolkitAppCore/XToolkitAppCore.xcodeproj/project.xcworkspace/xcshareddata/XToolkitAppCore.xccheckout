@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0B3B8D2B-BD2D-4E77-AAFE-9FD817BF4CBE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XToolkitAppCore</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>72E3B868875DFDCFF3482870D0DF053BE5D0A5FC</key>
+		<string>/Volumes/document/repos/ios/xtoolkit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XToolkitAppCore/XToolkitAppCore.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>72E3B868875DFDCFF3482870D0DF053BE5D0A5FC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>/Volumes/document/repos/ios/xtoolkit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>72E3B868875DFDCFF3482870D0DF053BE5D0A5FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>72E3B868875DFDCFF3482870D0DF053BE5D0A5FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xtoolkit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

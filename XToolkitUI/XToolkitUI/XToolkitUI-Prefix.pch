@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'XTookitUI' target in the 'XTookitUI' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#import "XToolkitCore.h"
+#endif

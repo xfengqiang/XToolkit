@@ -1,0 +1,12 @@
+//
+// Prefix header for all source files of the 'XToolkitAppCore' target in the 'XToolkitAppCore' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import <QuartzCore/QuartzCore.h>
+#import "XToolkitCore.h"
+#import "XToolkit3rd.h"
+#import "XToolkitUI.h"
+#endif
